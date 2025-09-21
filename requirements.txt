@@ -1,0 +1,4 @@
+# Python dependencies
+requests
+beautifulsoup4
+lxml
