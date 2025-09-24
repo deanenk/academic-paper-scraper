@@ -6,14 +6,6 @@ class SearchAgent:
     def __init__(self):
         # Initialize your search agent here
         pass
-# In your search_agent.py
-def search(self, query, rate_limiter, test_mode=False):
-    if test_mode:
-        # Return mock URLs instead of real searches
-        return [f"mock_url_{i}" for i in range(query.max_results)]
-    else:
-        # Real search logic here
-        pass
     
     def search(self, query: SearchQuery, rate_limiter: RateLimiter):
         """

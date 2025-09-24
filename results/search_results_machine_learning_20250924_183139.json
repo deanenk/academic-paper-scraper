@@ -1,0 +1,60 @@
+{
+  "query": "machine learning",
+  "sources": [
+    "arXiv"
+  ],
+  "max_results": 10,
+  "timestamp": "20250924_183139",
+  "papers": [
+    {
+      "title": "Paper from https://arxiv.org/abs/1234.5678",
+      "authors": [
+        "Author One",
+        "Author Two"
+      ],
+      "abstract": "Abstract for paper from https://arxiv.org/abs/1234.5678",
+      "url": "https://arxiv.org/abs/1234.5678",
+      "source": "arXiv"
+    },
+    {
+      "title": "Paper from https://arxiv.org/abs/2345.6789",
+      "authors": [
+        "Author One",
+        "Author Two"
+      ],
+      "abstract": "Abstract for paper from https://arxiv.org/abs/2345.6789",
+      "url": "https://arxiv.org/abs/2345.6789",
+      "source": "arXiv"
+    },
+    {
+      "title": "Paper from https://arxiv.org/abs/3456.7890",
+      "authors": [
+        "Author One",
+        "Author Two"
+      ],
+      "abstract": "Abstract for paper from https://arxiv.org/abs/3456.7890",
+      "url": "https://arxiv.org/abs/3456.7890",
+      "source": "arXiv"
+    },
+    {
+      "title": "Paper from https://arxiv.org/abs/4567.8901",
+      "authors": [
+        "Author One",
+        "Author Two"
+      ],
+      "abstract": "Abstract for paper from https://arxiv.org/abs/4567.8901",
+      "url": "https://arxiv.org/abs/4567.8901",
+      "source": "arXiv"
+    },
+    {
+      "title": "Paper from https://arxiv.org/abs/5678.9012",
+      "authors": [
+        "Author One",
+        "Author Two"
+      ],
+      "abstract": "Abstract for paper from https://arxiv.org/abs/5678.9012",
+      "url": "https://arxiv.org/abs/5678.9012",
+      "source": "arXiv"
+    }
+  ]
+}
