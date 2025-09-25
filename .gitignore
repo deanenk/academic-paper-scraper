@@ -1,0 +1,16 @@
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+.idea/
+.vscode/
+*.log
+data/temp/
+*.csv
+*.json
+*.pdf
