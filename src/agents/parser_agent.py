@@ -1,5 +1,5 @@
 # parser_agent.py
-from src.agents.rate_limiter import RateLimiter
+from agents.rate_limiter import RateLimiter
 
 class ParserAgent:
     def __init__(self):

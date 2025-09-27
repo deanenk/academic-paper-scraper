@@ -1,11 +1,11 @@
 # orchestrator.py
-from src.schemas import SearchQuery
-from src.agents.search_agent import SearchAgent
-from src.agents.parser_agent import ParserAgent
-from src.agents.storage_agent import StorageAgent
-from src.agents.rate_limiter import RateLimiter
+from schemas import SearchQuery
+from agents.search_agent import SearchAgent
+from agents.parser_agent import ParserAgent
+from agents.storage_agent import StorageAgent
+from agents.rate_limiter import RateLimiter
 
-class PaperScraperOrchestrator:
+class PaperScraper:
     def __init__(self):
         self.search_agent = SearchAgent()
         self.parser_agent = ParserAgent()

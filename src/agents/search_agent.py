@@ -1,6 +1,12 @@
+import sys
+import os
+
+# Add the parent directory to Python path so schemas can be found
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 # search_agent.py
-from src.schemas import SearchQuery
-from src.agents.rate_limiter import RateLimiter
+from schemas import SearchQuery
+from agents.rate_limiter import RateLimiter
 
 class SearchAgent:
     def __init__(self):

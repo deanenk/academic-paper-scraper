@@ -1,4 +1,8 @@
-pycache/
+
+## **Updated .gitignore**
+
+```gitignore
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -14,3 +18,7 @@ data/temp/
 *.csv
 *.json
 *.pdf
+.DS_Store
+*.egg-info/
+dist/
+build/
